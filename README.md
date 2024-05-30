@@ -1,4 +1,9 @@
 # Netlify CLI
+This repository consists of a README describing the minimal setup and usage of Netlify CLI, a Dockerfile and install.sh.
+
+
+*Notes.*
+*This repository is a private repository and will not be open to the public. The README and other documents, Dockerfiles and Shell scripts included in this repository may not always be correct.*
 
 ## Recommend
 Below are the recommended methods for configuring and using the Netlify CLI.
