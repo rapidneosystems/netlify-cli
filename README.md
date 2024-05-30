@@ -8,7 +8,7 @@ Docker is recommended.
 The description is written assuming use with Docker. Local use is also possible, but we have not tested it.
 Dockerfile is included in the repository.
 
-setup.sh is a Shell script to install Netlify CLI.
+install.sh is a Shell script to install Netlify CLI.
 
 ### Installation
 If you have created a container following the instructions in the Dockerfile or Dockerfile, the Netlify CLI should already be installed.
