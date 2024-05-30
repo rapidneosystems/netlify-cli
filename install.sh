@@ -5,8 +5,8 @@ apt update && apt upgrade -y && \
 apt install wget curl git vim -y && \
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash && \
 nvm install 20 && \
-node -v # should print `v20.14.0` && \
-npm -v # should print `10.7.0` && \
+node -v && \
+npm -v && \
 npm install netlify-cli -g && \
 export NVM_DIR="$HOME/.nvm" && \
 source ~/.profile
