@@ -13,9 +13,9 @@ setup.sh is a Shell script to install Netlify CLI.
 ### Installation
 If you have created a container following the instructions in the Dockerfile or Dockerfile, the Netlify CLI should already be installed.
 
-If you want to install from scratch, it is convenient to use setup.sh. for example, bash ./setup.sh will automatically install Netlify CLI.
+If you want to install from scratch, it is convenient to use setup.sh. for example, bash ./install.sh will automatically install Netlify CLI.
 
-Both the Dockerfile and setup.sh are written so that the Netlify CLI is installed globally.
+Both the Dockerfile and install.sh are written so that the Netlify CLI is installed globally.
 
 ### Login
 Follow Netlify CLI official documentation to login.
