@@ -7,4 +7,6 @@ nvm install 20 && \
 node -v # should print `v20.14.0` && \
 npm -v # should print `10.7.0` && \
 npm install netlify-cli -g && \
+export NVM_DIR="$HOME/.nvm" && \
+source ~/.profile && \
 mkdir ~/repos
